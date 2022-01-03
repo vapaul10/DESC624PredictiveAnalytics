@@ -1,4 +1,5 @@
-# DESC624PredictiveAnalytics
+# DESC624PredictiveAnalytics_More
 DESC624 PredictiveAnalytics
-add files
+Code and files are from class and examples of my coding.
+
 
